@@ -1,11 +1,10 @@
 ---
 title: "Matthew Woodworth"
 ---
+# Welcome!
 
-This is a Quarto website.
+Thank you for visiting my website. Learn more about me:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<a href="about.qmd" class="button">About Me</a>
+<a href="resume.qmd" class="button">Resume</a>
+<a href="projects.qmd" class="button">Projects</a>

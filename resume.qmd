@@ -1,0 +1,167 @@
+---
+title: "Resume"
+format: html
+---
+[Download My Resume (PDF)](docs/MatthewW_Resume.pdf)
+
+
+# Matthew Woodworth
+
+Fort Collins, Colorado &nbsp; ◆ &nbsp; 832-471-0332 &nbsp; ◆ &nbsp; [mrwoodworth.24@gmail.com](mailto:mrwoodworth.24@gmail.com) &nbsp; ◆ &nbsp; [LinkedIn](https://www.linkedin.com/in/matthewwoodworth)
+
+---
+
+## Watershed and Environmental Sciences Professional Summary
+
+As an emerging professional in the field of Water Resources, I am passionate about various facets of hydrology and aquatic environments. Throughout my college career I have been involved in a wide array of extracurricular activities and student organizations, allowing me to expand on my skill sets and discover how I work with others on different projects. Through my coursework and volunteer experiences, I have gained hands-on skills in field sampling, data analysis, and environmental assessment. With proficiency in R, GIS, and scientific communication, I am confident in the application of my skills towards understanding complex environmental and ecological systems.
+
+---
+
+## Education
+
+**Professional Science Master’s Program in Ecosystem Science**, Colorado State University, Fort Collins, CO  
+*Concentration: Water Resources*  
+**Graduation:** December 2025
+
+**Bachelor of Science**, Colorado State University, Fort Collins, CO  
+*Major: Ecosystem Science and Sustainability | Minor: Watershed Science | GPA: 3.84 | Cum Laude*  
+**Graduation:** May 2024
+
+---
+
+## Relevant Skills
+
+- **Field Sampling and Monitoring:** Riverine/lake biological, chemical, and physical sampling techniques using various water quality probes and sondes.
+
+- **Data Analysis & Modeling:** R, Excel, GIS, statistical analysis, and advanced data visualization.
+
+- **Technical Reporting & Communication:** Scientific writing, report development, and data presentation with proficiency in the Microsoft Office suite.
+
+- **Team Collaboration:** Effective interdisciplinary teamwork in research, restoration projects, and extracurriculars.
+
+- **Hydrologic Instrumentation:** Proficient in deploying and maintaining water quality sensors and data loggers.
+
+---
+
+## Relevant Work and Volunteer Experience
+
+**Volunteer Weather Observer** | Campus Weather Station, Fort Collins, CO  
+*2024–2025*
+
+- Conducted manual observations of precipitation, snowfall, temperature, dew point, pressure, wind, etc. twice a week to report to the NWS and add to historical climatic data set.
+
+- Demonstrated strong aptitude and knowledge of climate data collection and monitoring.
+
+**Trails Crew Member**, Larimer County Conservation Corps  
+*June 2024–August 2024*
+
+- Constructed thousands of feet of sustainable trails around Larimer County, CO.
+
+- Maintained trail sustainability and managed invasive species in Lory State Park.
+
+- Thinned dozens of acres of fire-prone forest in the foothills west of Fort Collins, CO, working closely with the Coalition for the Poudre River Watershed and the Northern Colorado Fireshed Collaborative.
+
+**Wildlands Restoration Volunteers (WRV)**  
+*2022–2024*
+
+- Served on a team, constructed of ESS Club members and other volunteers, to plant trees after a wildfire in Boulder County. Total individuals planted was roughly 1,500 seedlings.
+
+- Worked with a Loveland, Colorado organic vegetable farmer to plant Colorado native cover crops to protect harvest against harsh winds and temperatures during shoulder seasons.
+
+- Planted 500+ plants in Boise Bend Natural Area to restore biodiversity after the Big Thompson flood.
+
+**CSU Watershed Club Bi-annual Poudre River Cleanup**  
+*2020, 2021, 2022*
+
+- Club members and officers worked together to collect a dozen bags of garbage.
+
+- 50 pounds of garbage was collected from the sides of the Poudre River just below Kelly Flats campground along a one mile stretch of Colorado Hwy 14.
+
+**CSU Wildlife Society Raptor Monitoring** | Boyd Lake State Park  
+*2020, 2021*
+
+- Club members and officers met weekly each Sunday morning to observe and ID raptor species for use in a long-term monitoring program of Colorado Raptors.
+
+---
+
+## Student Involvement
+
+**CSU Ecosystem Science and Sustainability Club Co-President**  
+*2022–2024*
+
+- Answered emails and planned prospective events while promoting the club through various social media.
+
+- Engaged with community stakeholders and volunteer organizations to perform restoration projects and/or hold guest speaker lectures.
+
+**CSU Concert and Symphonic Bands | Rampage Basketball Band | Trumpet**  
+*2022–2025*
+
+- Principal trumpet for CSU Concert and Symphonic Bands, with daily rehearsals and formal performances.
+
+- Represented CSU through leadership, professionalism, and adherence to performance standards.
+
+- Performed with CSU Rampage Basketball Band at all games, including NCAA tournaments in OH and NC.
+
+---
+
+## Academic Experience and Coursework
+
+**Environmental Data Science Applications**  
+*Fall 2024/Spring 2025*
+
+- Applied R to analyze, model, and visualize environmental and spatial data using advanced packages.
+
+- Developed high quality and reproducible reports to communicate scientific findings effectively.
+
+**Advanced Snow Hydrology and Field Methods**  
+*Fall 2024/Spring 2025*
+
+- Selected a study location to model hydrologic variables across a watershed with regard to snowfall, undercatch, wind transport, sublimation, and interception.
+
+- Produced publication-ready graphs to effectively communicate the findings.
+
+- Conducted field tests to observe spatial and temporal variability within the snowpack across Colorado.
+
+**Watershed Capstone | Watershed Problem Analysis**  
+*Spring 2024*
+
+- Applied my cumulative skill set to closely analyze a watershed’s function using R and ArcGIS to produce a research report and final presentation, ultimately presented to my fellow graduates and faculty of the Warner College of Natural Resources.
+
+**Limnology**  
+*Fall 2022*
+
+- Analyzed lake and reservoir biogeochemistry as a function of depth, temperature, etc.
+
+- Collected limnological data at Horsetooth Reservoir and conducted analyses in R software.
+
+- Studied interactions between Phytoplankton, Zooplankton, and Macroinvertebrates in a lake system.
+
+**Land Use Hydrology | Watershed Measurements | Land Use and Water Quality**  
+*2022, 2023, 2024*
+
+- Conceptualized advanced water resource challenges in a changing climate while developing mathematical models to compute streamflow velocity, volume, soil moisture, ET, and other hydrologic processes.
+
+- Conducted weekly field measurements on the Poudre River using handheld water quality probes and processed In-Situ water sonde continuous data in R to compare hydrograph responses to various water quality parameters alongside ecological health assessments across multiple reaches on the Poudre.
+
+**Natural Resource Ecology and Measurements**  
+*Summer 2023*
+
+- Spent one month at the CSU Mountain Campus taking a variety of field measurements within forestry, wildlife biology, watershed science, etc.
+
+- Can ID 200+ species via their common or scientific name during different stages of their life.
+
+- Can effectively produce grant proposals for restoration and remediation efforts.
+
+**Geospatial Information Systems**  
+*Spring 2022*
+
+- Produced a variety of map products using open source spatial data.
+
+- Conducted geospatial analysis on the Cameron Peak (2020) and High Park (2012) fires’ burn scars.
+
+**Ecosystem Ecology**  
+*Fall 2022*
+
+- Studied how various facets of the ecosystem interact on a broad and molecular scale.
+
+- Studied annual biogeochemical cycles of organic and inorganic carbon and nitrogen.

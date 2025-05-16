@@ -4,13 +4,132 @@
     "href": "index.html",
     "title": "Matthew Woodworth",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\nThank you for visiting my website. Learn more about me:\nAbout Me Resume Projects"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Matthew, an emerging water resources professional passionate about the intersection of science, sustainability, and community. With a background in Ecosystem Science and a Master’s in Water Resources, I specialize in data-driven environmental analysis, river restoration, and public engagement.\nMy work bridges field research and technical analysis, using tools like GIS, statistical modeling, and remote sensing to inform watershed management and conservation strategies. Whether I’m collecting data knee-deep in a stream or presenting findings to stakeholders, my goal is always the same: to support healthy ecosystems and resilient communities.\nOutside of work, I enjoy hiking high peaks, volunteering for trail crews, and learning from the landscapes I help protect."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n![“This is my image]()"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download My Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#about-me",
+    "href": "resume.html#about-me",
+    "title": "Resume",
+    "section": "",
+    "text": "Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology."
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "January 2023 - Present\n\nUtilize data analysis to optimize business operations and increase efficiency\nCollaborate with cross-functional teams to develop predictive models\nLead data visualization projects to present findings to stakeholders\n\n\n\n\nJune 2021 - December 2022\n\nAssisted in cleaning and analyzing large datasets for business insights\nSupported the development of dashboards for real-time business tracking\nProvided actionable recommendations to improve marketing strategies"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nProfessional Science Master’s Program in Ecosystem Science, Colorado State University, Fort Collins, CO\nConcentration: Water Resources\nGraduation: December 2025\nBachelor of Science, Colorado State University, Fort Collins, CO\nMajor: Ecosystem Science and Sustainability | Minor: Watershed Science | GPA: 3.84 | Cum Laude\nGraduation: May 2024"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Analysis: Python, SQL, R\nVisualization Tools: Tableau, PowerBI\nMachine Learning: Scikit-learn, TensorFlow\nStatistical Analysis: STATA, SPSS"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Google Data Analytics Professional Certificate - 2022\nMicrosoft Certified: Azure Data Scientist Associate - 2021"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "",
+    "text": "Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.\n\n\n\nConducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns."
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "",
+    "text": "English: Fluent\nSwahili: Native"
+  },
+  {
+    "objectID": "resume.html#interests",
+    "href": "resume.html#interests",
+    "title": "Resume",
+    "section": "",
+    "text": "Hiking\nTechnology\nPhotography"
+  },
+  {
+    "objectID": "resume.html#watershed-and-environmental-sciences-professional-summary",
+    "href": "resume.html#watershed-and-environmental-sciences-professional-summary",
+    "title": "Resume",
+    "section": "Watershed and Environmental Sciences Professional Summary",
+    "text": "Watershed and Environmental Sciences Professional Summary\nAs an emerging professional in the field of Water Resources, I am passionate about various facets of hydrology and aquatic environments. Throughout my college career I have been involved in a wide array of extracurricular activities and student organizations, allowing me to expand on my skill sets and discover how I work with others on different projects. Through my coursework and volunteer experiences, I have gained hands-on skills in field sampling, data analysis, and environmental assessment. With proficiency in R, GIS, and scientific communication, I am confident in the application of my skills towards understanding complex environmental and ecological systems."
+  },
+  {
+    "objectID": "resume.html#education-1",
+    "href": "resume.html#education-1",
+    "title": "Resume",
+    "section": "",
+    "text": "University of Nairobi\n2017 - 2021"
+  },
+  {
+    "objectID": "resume.html#watershed-and-environmental-sciences-professional-summary-1",
+    "href": "resume.html#watershed-and-environmental-sciences-professional-summary-1",
+    "title": "Matthew Woodworth - Resume",
+    "section": "Watershed and Environmental Sciences Professional Summary",
+    "text": "Watershed and Environmental Sciences Professional Summary\nAs an emerging professional in the field of Water Resources, I am passionate about various facets of hydrology and aquatic environments. Throughout my college career I have been involved in a wide array of extracurricular activities and student organizations, allowing me to expand on my skill sets and discover how I work with others on different projects. Through my coursework and volunteer experiences, I have gained hands-on skills in field sampling, data analysis, and environmental assessment. With proficiency in R, GIS, and Scientific communication, I am confident in the application of my skills towards understanding complex environmental and ecological systems."
+  },
+  {
+    "objectID": "resume.html#relevant-skills",
+    "href": "resume.html#relevant-skills",
+    "title": "Resume",
+    "section": "Relevant Skills",
+    "text": "Relevant Skills\n\nField Sampling and Monitoring: Riverine/lake biological, chemical, and physical sampling techniques using various water quality probes and sondes.\nData Analysis & Modeling: R, Excel, GIS, statistical analysis, and advanced data visualization.\nTechnical Reporting & Communication: Scientific writing, report development, and data presentation with proficiency in the Microsoft Office suite.\nTeam Collaboration: Effective interdisciplinary teamwork in research, restoration projects, and extracurriculars.\nHydrologic Instrumentation: Proficient in deploying and maintaining water quality sensors and data loggers."
+  },
+  {
+    "objectID": "resume.html#relevant-work-and-volunteer-experience",
+    "href": "resume.html#relevant-work-and-volunteer-experience",
+    "title": "Resume",
+    "section": "Relevant Work and Volunteer Experience",
+    "text": "Relevant Work and Volunteer Experience\nVolunteer Weather Observer | Campus Weather Station, Fort Collins, CO\n2024–2025\n\nConducted manual observations of precipitation, snowfall, temperature, dew point, pressure, wind, etc. twice a week to report to the NWS and add to historical climatic data set.\nDemonstrated strong aptitude and knowledge of climate data collection and monitoring.\n\nTrails Crew Member, Larimer County Conservation Corps\nJune 2024–August 2024\n\nConstructed thousands of feet of sustainable trails around Larimer County, CO.\nMaintained trail sustainability and managed invasive species in Lory State Park.\nThinned dozens of acres of fire-prone forest in the foothills west of Fort Collins, CO, working closely with the Coalition for the Poudre River Watershed and the Northern Colorado Fireshed Collaborative.\n\nWildlands Restoration Volunteers (WRV)\n2022–2024\n\nServed on a team, constructed of ESS Club members and other volunteers, to plant trees after a wildfire in Boulder County. Total individuals planted was roughly 1,500 seedlings.\nWorked with a Loveland, Colorado organic vegetable farmer to plant Colorado native cover crops to protect harvest against harsh winds and temperatures during shoulder seasons.\nPlanted 500+ plants in Boise Bend Natural Area to restore biodiversity after the Big Thompson flood.\n\nCSU Watershed Club Bi-annual Poudre River Cleanup\n2020, 2021, 2022\n\nClub members and officers worked together to collect a dozen bags of garbage.\n50 pounds of garbage was collected from the sides of the Poudre River just below Kelly Flats campground along a one mile stretch of Colorado Hwy 14.\n\nCSU Wildlife Society Raptor Monitoring | Boyd Lake State Park\n2020, 2021\n\nClub members and officers met weekly each Sunday morning to observe and ID raptor species for use in a long-term monitoring program of Colorado Raptors."
+  },
+  {
+    "objectID": "resume.html#student-involvement",
+    "href": "resume.html#student-involvement",
+    "title": "Resume",
+    "section": "Student Involvement",
+    "text": "Student Involvement\nCSU Ecosystem Science and Sustainability Club Co-President\n2022–2024\n\nAnswered emails and planned prospective events while promoting the club through various social media.\nEngaged with community stakeholders and volunteer organizations to perform restoration projects and/or hold guest speaker lectures.\n\nCSU Concert and Symphonic Bands | Rampage Basketball Band | Trumpet\n2022–2025\n\nPrincipal trumpet for CSU Concert and Symphonic Bands, with daily rehearsals and formal performances.\nRepresented CSU through leadership, professionalism, and adherence to performance standards.\nPerformed with CSU Rampage Basketball Band at all games, including NCAA tournaments in OH and NC."
+  },
+  {
+    "objectID": "resume.html#academic-experience-and-coursework",
+    "href": "resume.html#academic-experience-and-coursework",
+    "title": "Resume",
+    "section": "Academic Experience and Coursework",
+    "text": "Academic Experience and Coursework\nEnvironmental Data Science Applications\nFall 2024/Spring 2025\n\nApplied R to analyze, model, and visualize environmental and spatial data using advanced packages.\nDeveloped high quality and reproducible reports to communicate scientific findings effectively.\n\nAdvanced Snow Hydrology and Field Methods\nFall 2024/Spring 2025\n\nSelected a study location to model hydrologic variables across a watershed with regard to snowfall, undercatch, wind transport, sublimation, and interception.\nProduced publication-ready graphs to effectively communicate the findings.\nConducted field tests to observe spatial and temporal variability within the snowpack across Colorado.\n\nWatershed Capstone | Watershed Problem Analysis\nSpring 2024\n\nApplied my cumulative skill set to closely analyze a watershed’s function using R and ArcGIS to produce a research report and final presentation, ultimately presented to my fellow graduates and faculty of the Warner College of Natural Resources.\n\nLimnology\nFall 2022\n\nAnalyzed lake and reservoir biogeochemistry as a function of depth, temperature, etc.\nCollected limnological data at Horsetooth Reservoir and conducted analyses in R software.\nStudied interactions between Phytoplankton, Zooplankton, and Macroinvertebrates in a lake system.\n\nLand Use Hydrology | Watershed Measurements | Land Use and Water Quality\n2022, 2023, 2024\n\nConceptualized advanced water resource challenges in a changing climate while developing mathematical models to compute streamflow velocity, volume, soil moisture, ET, and other hydrologic processes.\nConducted weekly field measurements on the Poudre River using handheld water quality probes and processed In-Situ water sonde continuous data in R to compare hydrograph responses to various water quality parameters alongside ecological health assessments across multiple reaches on the Poudre.\n\nNatural Resource Ecology and Measurements\nSummer 2023\n\nSpent one month at the CSU Mountain Campus taking a variety of field measurements within forestry, wildlife biology, watershed science, etc.\nCan ID 200+ species via their common or scientific name during different stages of their life.\nCan effectively produce grant proposals for restoration and remediation efforts.\n\nGeospatial Information Systems\nSpring 2022\n\nProduced a variety of map products using open source spatial data.\nConducted geospatial analysis on the Cameron Peak (2020) and High Park (2012) fires’ burn scars.\n\nEcosystem Ecology\nFall 2022\n\nStudied how various facets of the ecosystem interact on a broad and molecular scale.\nStudied annual biogeochemical cycles of organic and inorganic carbon and nitrogen."
   }
 ]

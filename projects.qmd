@@ -2,3 +2,15 @@
 title: "Projects"
 format: html
 ---
+
+## ESS 523c: Environmental Data Science Applications for Water Resources
+
+### Labs
+
+#### [Lab 01: Covid Trends](https://matthew-woodworth.github.io/ESS_523c/lab-01.html)
+
+#### [Lab 02: Border Summaries](https://matthew-woodworth.github.io/ESS_523c/lab-02.html)
+
+#### [Lab 03: Tesselations/ Point In Polygon](https://matthew-woodworth.github.io/ESS_523c/lab-03.html)
+
+#### [Lab 04: Rasters and Remote Sensing](https://matthew-woodworth.github.io/ESS_523c/lab-04.html)

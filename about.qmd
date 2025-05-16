@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+<img src="docs/DSC_0045 2.jpg" alt="A photo of Matthew Woodworth" width="400" style="border-radius: 100%; display: block; margin-left: auto; margin-right: auto;" />
 
-```{r}
-1 + 1
-```
+
+Hi, I’m Matthew, an emerging water resources professional passionate about the intersection of science, sustainability, and community. With a background in Ecosystem Science and a Master’s in Water Resources, I specialize in data-driven environmental analysis, river restoration, and public engagement.
+
+My work bridges field research and technical analysis, using tools like GIS, statistical modeling, and remote sensing to inform watershed management and conservation strategies. Whether I’m collecting data knee-deep in a stream or presenting findings to stakeholders, my goal is always the same: to support healthy ecosystems and resilient communities.
+
+Outside of work, I enjoy hiking high peaks, volunteering for trail crews, and learning from the landscapes I help protect.
+
+\
